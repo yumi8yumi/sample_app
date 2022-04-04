@@ -57,7 +57,7 @@ header{
   
   main{
     width:880px;
-    margin: 0 20px;
+    margin: 0 auto;
   }
   
   .list-wrap{
